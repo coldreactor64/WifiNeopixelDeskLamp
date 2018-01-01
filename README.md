@@ -39,6 +39,6 @@ You will need
 
 ## Contributors
 [Kian Moretz]( https://github.com/kmoretz)-Built the beautiful front end!
-[Kian Moretz]( https://github.com/kmoretz)
+[Jeremy Hall]( https://github.com/Coldreactor64)-Built the Arduino ESP8266 code
 ## License
 GNU General Public License v3.0
