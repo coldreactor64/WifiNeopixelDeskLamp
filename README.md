@@ -41,5 +41,9 @@ You will need
 [Kian Moretz]( https://github.com/kmoretz)-Built the beautiful front end!
 
 [Jeremy Hall]( https://github.com/Coldreactor64)-Built the Arduino ESP8266 code
+
+## Inspiration
+[Jason Coon](https://github.com/jasoncoon/esp8266-fastled-webserver)
+
 ## License
 GNU General Public License v3.0
