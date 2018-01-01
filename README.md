@@ -12,7 +12,7 @@ To install you will need:
 
 [Arduino](https://www.arduino.cc/)
 [ESP8266](https://github.com/esp8266/Arduino)- Arduino ESP8266 board files and standard libraries and examples
-[FastLED](https://www.arduino.cc/)- Neopixel library used
+[FastLED](https://github.com/jasoncoon/esp8266-fastled-webserver)- Neopixel library used
 [ESP8266fs](https://github.com/esp8266/arduino-esp8266fs-plugin) ESP8266 File System library/uploader
 
 You will need to install the required libraries onto the Arduino IDE by following the requisite instructions provided by each of the libraries.
@@ -38,7 +38,7 @@ You will need
 9. Close and screw back in the LED module
 
 ## Contributors
+[Kian Moretz]( https://github.com/kmoretz)-Built the beautiful front end!
 [Kian Moretz]( https://github.com/kmoretz)
-
 ## License
 GNU General Public License v3.0
